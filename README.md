@@ -5,6 +5,8 @@ The is a text classification problem performed on solving the [**Toxic Comment C
 -As a multi-label classification task, different appraoches are applied to solving the problem.
 - For text vectorization, bag of words and word embeddings are applied
 
+The blog post written for the project can be viewed at https://ajay-byan.medium.com/toxic-comments-classification-8d8a9a9b99e6
+
 **Modeling Approaches**
 - Binary Relevance 
 - Classifier Chain
